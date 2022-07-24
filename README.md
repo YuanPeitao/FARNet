@@ -1,4 +1,4 @@
-#FARNet
+# FARNet
 Code for paper '[*Foreground-Aware Refinement Network for Building Extraction from Remote Sensing Images*]'
 
 ## Required libraries
