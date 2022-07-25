@@ -1,4 +1,4 @@
-#FARNet
+# FARNet
 Code for paper '[*Foreground-Aware Refinement Network for Building Extraction from Remote Sensing Images*]'
 
 ## Required libraries
@@ -10,7 +10,7 @@ PyTorch
 torchvision
 glob  
 
-##Usage
+## Usage
 Cd to the directory 'FARNet', run the inference process by command: ```python farnet_test.py```
 We also provide the predicted result maps (./result) and pre-trained model （./saved_model）
 
